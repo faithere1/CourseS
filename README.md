@@ -12,6 +12,7 @@ Deadlines, status and notes for every course, in a single glanceable panel.
 ![Swift](https://img.shields.io/badge/Swift-5-F05138?style=flat-square&logo=swift&logoColor=white)
 ![WebKit](https://img.shields.io/badge/UI-WebKit-0A84FF?style=flat-square)
 ![Dependencies](https://img.shields.io/badge/dependencies-none-34C759?style=flat-square)
+![License](https://img.shields.io/badge/license-MIT-lightgrey?style=flat-square)
 
 </div>
 
@@ -85,6 +86,10 @@ open CourseS.app
 | `src/icon.swift` | Draws the app icon at build time |
 | `src/Info.plist` | App bundle settings |
 | `build.sh` | Compiles and bundles `CourseS.app` |
+
+## 📄 License
+
+[MIT](LICENSE) © faithere1
 
 ---
 
